@@ -1,4 +1,4 @@
-Code Book
+<h1>Code Book</h1>
 
 The original data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
