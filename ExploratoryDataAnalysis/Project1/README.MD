@@ -1,6 +1,8 @@
 This repository contains results of working on the project 1 for the Coursera's course "Exploratory Data Analysis". 
 
-There are 8 files for the Course Project 1: 4 png pictures and 4 scripts to generate each.
+There are 8 files for the Course Project 1: 
+     - 4 png pictures and 
+     - 4 scripts to generate each.
 
 To run each script please do the following:
 <ul>
