@@ -7,5 +7,7 @@ To run each script please do the following:
 <li>Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to some directory;
 <li>Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
 <li>Extract the data into ./Data subdirectory;
-<li>Run the scripts
+<li>Run the script;
+<li>Observer results;
+<li>Enjoy!
 </ul>
